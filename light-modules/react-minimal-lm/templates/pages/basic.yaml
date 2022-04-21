@@ -1,4 +1,4 @@
-title: 'React: Basic'
+title: 'React: Basic 123'
 
 baseUrl: http://localhost:3000
 routeTemplate: '/{language}{{@path}}'
